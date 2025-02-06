@@ -1,7 +1,7 @@
 import os
 
-train_path = "archive (1)\train\train"
-val_path = "archive (1)\val\val"
+train_path = "archive/train/train"
+val_path = "archive/val/val"
 img_size = 224
 
 print("Checking path:", train_path)

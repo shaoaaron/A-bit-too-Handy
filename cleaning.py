@@ -1,7 +1,7 @@
 import os
 
-train_path = "C:\Users\aaron\OneDrive\Desktop\Projects\a-bit-too-handy\A-bit-too-Handy\archive (1)\train\train"
-val_path = "C:\Users\aaron\OneDrive\Desktop\Projects\a-bit-too-handy\A-bit-too-Handy\archive (1)\val\val"
+train_path = "archive (1)\train\train"
+val_path = "archive (1)\val\val"
 img_size = 224
 
 print("Checking path:", train_path)
